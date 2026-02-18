@@ -3,4 +3,4 @@ This repo for practicing
 
 - Hello in my New Repo.
 
-test
+- Trying the git diff command.
